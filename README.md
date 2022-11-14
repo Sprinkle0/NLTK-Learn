@@ -11,3 +11,4 @@ val_shuffle.txt
 test_shuffle.txt
 shibu_clean.txt
 
+#实验报告：pdf文件
